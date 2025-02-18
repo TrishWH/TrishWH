@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TrishWH
 - 👀 I’m interested in ... expanding my technical knowledge
 - 🌱 I’m currently learning ... GitHub
-- 💞️ I’m looking to collaborate on ... AI projects
-- 📫 How to reach me ... pawinter@microsoft.com
+- 💞️ I’m looking to collaborate on ... newbie projects
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I operate two free little art galleries.
 
