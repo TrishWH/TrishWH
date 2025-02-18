@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrishWH
-- 👀 I’m interested in ... expanding my techincal knowledge
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... expanding my technical knowledge
+- 🌱 I’m currently learning ... GitHub
 - 💞️ I’m looking to collaborate on ... AI projects
 - 📫 How to reach me ... pawinter@microsoft.com
 - 😄 Pronouns: ... she/her
