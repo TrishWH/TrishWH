@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrishWH
 - 👀 I’m interested in ... expanding my technical knowledge
-- 🌱 I’m currently learning ... AX
+- 🌱 I’m currently learning ... more than my brain can carry
 - 💞️ I’m looking to collaborate on ... the intersection between humans and computers
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I can turn anything into a creative adventure
